@@ -37,12 +37,7 @@ A task management application to help users organize their daily schedules effic
 ### 4. Login Page
 A professional user authentication UI designed with security-focused layouts and responsiveness.
 - **Features:** Input validation and a sleek, user-friendly design.
-
----
-
-## 🚀 Live Demo
-You can view the live projects here:
-[Insert Your GitHub Pages Link Here]
+]
 
 ---
 
