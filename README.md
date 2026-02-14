@@ -2,7 +2,7 @@
 
 This repository contains my completed projects for the Level 2 tasks of the Web Development internship at **Oasis Infobyte**. These projects demonstrate functional web development, responsive design, and clean UI/UX implementation.
 
-## 👤 Candidate Details
+## 👤 Profile:
 - **Name:** Naitika Gharat
 - **Internship:** Web Development (Level 2 Tasks)
 - **GitHub Handle:** techplay29
@@ -11,6 +11,7 @@ This repository contains my completed projects for the Level 2 tasks of the Web 
 ---
 
 ## 🛠️ Skills & Technologies Used
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 During these tasks, I utilized the following technical skills:
 * **HTML5:** Semantic structure, form handling, and document organization.
 * **CSS3:** Flexbox, Grid, Glassmorphism effects, and Responsive Web Design (Media Queries).
